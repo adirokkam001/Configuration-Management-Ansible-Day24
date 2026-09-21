@@ -1,4 +1,4 @@
-# 21. Configuration Management — Ansible ⭐⭐⭐
+# Configuration Management — Ansible 
 
 Ansible is an important **Configuration Management and Automation tool** used by DevOps engineers to automate the configuration, deployment, and management of servers.
 
